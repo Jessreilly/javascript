@@ -1,0 +1,7 @@
+#node -v
+#node app.js
+#npm install -g nodemon
+#nodemon app.js
+##Now you can adjust the text in the app.js
+and it will automatically run any changes
+##Select Crl + C to exit the nodemon extension

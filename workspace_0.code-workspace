@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "javascript",
+			"path": "."
+		},
+		{
+			"name": "InputFiles",
+			"path": "InputFiles"
+		},
+		{
+			"name": "Text Files",
+			"path": "Text Files"
+		}
+	],
+	"settings": {}
+}
